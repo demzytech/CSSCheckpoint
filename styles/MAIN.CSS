@@ -117,11 +117,12 @@ background-color: #ff4a57;
 .fa-camera{
     font-size: 40px;
     color: #ff4a57;
-    rotate: 90;
+    transform: rotateX("180deg");
 }
 .card:hover{
     background-color: #ff4a57;
 }
+
     
     
 
